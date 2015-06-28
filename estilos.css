@@ -172,3 +172,24 @@ span.listanoticia {
 .div-table-coln{
   float: left;
 }
+
+.box_mobile{
+  margin:0 auto; 
+  top:0px; 
+  font-size : 12pt; 
+  font-family : verdana,arial; 
+  text-align: justify;
+  width:100%;
+}
+
+.tbox{
+  background:#90EE90;
+  text-align: center;
+  color:#F5FFFA;
+}
+
+.p_mobile{
+  font-size : 20pt; 
+  font-family : verdana,arial;   
+  color:#F5FFFA; 
+}

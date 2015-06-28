@@ -1,0 +1,174 @@
+H1 { 
+font-size : 12pt; 
+font-family : verdana,arial; 
+text-align : left; 
+} 
+
+H2 { 
+font-size : 11pt; 
+font-family : verdana,arial; 
+text-align : left;
+font-weight: normal;
+} 
+
+div.topo { 
+  margin:0 auto; 
+  width:100%; 
+  height:100px; 
+  top:0px; 
+  font-family : verdana,arial; 
+  background:#90EE90;
+  font-size : 20pt; 
+  font-size : 20pt; 
+  color:#F5FFFA;
+}
+
+div.topo label { 
+  width:100%; 
+  display: block; 
+  padding:30px 10px 10px 5;
+}
+
+.erro { 
+  color:#FF0000;
+  font-weight: bold;
+}
+
+a:link {
+    text-decoration: none;
+	color:#008000;
+}
+
+a:visited {
+    text-decoration: none;
+	color:#008000;
+}
+
+a:hover {
+    text-decoration: none;
+	color:#008000;
+}
+
+a:active {
+    text-decoration: none;
+	color:#008000;
+}
+
+div.box { 
+  width:100%; 
+  padding:10px 0 5px 0px; 
+}
+
+div.box h1 { 
+  font-size:18px; 
+  padding:5px 0 5px 5px; 
+}
+
+div.box label { 
+  width:100%; 
+  display: block; 
+  padding:1px 10px 10px 0;
+  font-size : 11pt; 
+  font-family : verdana,arial;   
+}
+
+div.box label span { 
+  display: block; 
+  font-size:12px; 
+  float:left; 
+  width:40px; 
+  text-align:left; 
+  padding:5px 10px 0 10; 
+} 
+
+
+div.box .button{ 
+  margin:0 0 10px 0; 
+  padding:4px 7px; 
+  border:0px; 
+  position: relative; 
+  top:10px; 
+  left:10px; 
+  width:100px; 
+}
+
+div.boxnoticia { 
+  width:100%; 
+  top:50px; 
+}
+
+div.boxnoticia h1 { 
+  font-size:18px; 
+  padding:5px 0 5px 5px; 
+}
+
+div.boxnoticia label { 
+  width:100%; 
+  display: block; 
+  padding:1px 10px 10px 0;
+  font-size : 11pt; 
+  font-family : verdana,arial;   
+}
+
+div.boxnoticia label span { 
+  display: block; 
+  font-size:12px; 
+  float:left; 
+  width:60px; 
+  text-align:left; 
+  padding:5px 10px 0 10; 
+} 
+
+div.boxnoticia .button{ 
+  margin:0 0 10px 0; 
+  padding:4px 7px; 
+  border:0px; 
+  position: relative; 
+  top:10px; 
+  left:10px; 
+  width:100px; 
+}
+
+div.boxnoticia .message{ 
+  padding:7px 7px; 
+  width:550px; 
+  overflow:hidden; 
+  height:150px; }
+  
+span.listanoticia {
+  width:100%; 
+  display: block; 
+  padding:1px 10px 0px 10px;
+  font-size : 10pt; 
+  font-family : verdana,arial; 
+}
+
+.div-table{
+  display:table; 
+  border:1px solid #90EE90; 
+  background:#90EE90; 
+  color:#F5FFFA;
+}
+
+.div-table-caption{
+  display:table-caption; 
+  background:#90EE90;
+  text-align: left;
+}
+
+.div-table-row{
+  display:table-row;
+}
+
+.div-table-col{
+  display:table-cell; 
+  padding: 10px; 
+  border: 1px solid #90EE90;
+  text-align: left; 
+  width:300px; 
+  font-family : verdana,arial;
+}
+
+.div-table-coln{
+  float: left;
+}

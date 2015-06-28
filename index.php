@@ -37,7 +37,7 @@ $desconecta;
 
  <?php
  while($resultado = mysql_fetch_object($listanoticia)){
-  echo "<div>".
+  echo "<div class='divtexto'>".
 	     "<h1 onclick='mostraOculta(this)'><b><a href='#'>$resultado->titulo</a></b></h1>".
          "<h2>$resultado->resumo</h2>".
 	     "<div style='display: none'>".

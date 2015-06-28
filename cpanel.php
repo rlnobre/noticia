@@ -33,7 +33,7 @@ $val_status = '';
 
 if(isset($_GET['erro'])){
   if($_GET['erro']=='0'){
-    $erro = "<label class='erro'>Nenhuma Not&iacutecia Informada!</label>";
+    $erro = "<label class='erro'>Favor informar todos os campos para criar uma nova Not&iacutecia!</label>";
   }elseif($_GET['erro']=='1'){
 	 $erro =  "<label class='erro'>Not&iacutecia j&aacute Existe! Para alterar modifique as informa&ccedil;&atilde;es acima e clique em Gravar.</label>";
     
